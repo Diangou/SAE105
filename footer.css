@@ -1,0 +1,21 @@
+
+.reseaux-sociaux{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+
+.navigation-externe{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top:200px;
+    padding-bottom: 100px;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+
+}
